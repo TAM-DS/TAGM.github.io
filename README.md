@@ -17,6 +17,10 @@
 - Description
 - Links
 
+### Project 5
+- Description
+- Links
+
 ### Project 6
 - Description
 - Links
@@ -24,6 +28,19 @@
 ### Project 7
 - Description
 - Links
+
+### Project 8
+- Description
+- Links
+
+### Project 9
+- Description
+- Links
+
+### Project 10
+- Description
+- Links
+
 
 ## Certificates
 ### Google Cloud Architect Professional
