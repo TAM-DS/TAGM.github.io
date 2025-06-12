@@ -1,5 +1,7 @@
 # TAGM.github.io
-##Thought Leadership
+
+## Thought Leadership
+
 ### Carousel 1
 - Description
 - Links
@@ -55,7 +57,8 @@
 - Link
 - X
 - Link
+- 
 ### Resume
 - Link
 
-### Contact Information
+
