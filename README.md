@@ -3,7 +3,7 @@
 ## Projects
 ### Project 1
 - Description
-- [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7338672069145964544/)
+- [Carousel](https://www.canva.com/design/DAGp_Se_bXg/9DNKoAEViFNXyjNdxfRWeQ/watch)
 
 ### Project 2
 - Description
