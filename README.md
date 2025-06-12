@@ -28,3 +28,6 @@
 ## Certificates
 ### Google Cloud Architect Professional
 - Link
+
+## Work History
+### Full Stack Founder BuiltByTAGM
