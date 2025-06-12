@@ -1,5 +1,17 @@
 # TAGM.github.io
 
+##Thought Leadership
+### Carousel 1
+- Description
+- Links
+### Carousel 2
+- Description
+- Links
+### Carousel 3
+- Description
+- Links 
+
+
 ## Projects
 ### Project 1
 - Description
@@ -48,6 +60,15 @@
 
 ### Google Cloud ML Professional
 - Link
+
+### CFA
+- Link
+
+### Data Bricks
+- Links
+
+### FinOps
+- Links 
 
 ## Work History
 ### Full Stack Founder BuiltByTAGM
