@@ -46,5 +46,8 @@
 ### Google Cloud Architect Professional
 - Link
 
+### Google Cloud ML Professional
+- Link
+
 ## Work History
 ### Full Stack Founder BuiltByTAGM
