@@ -13,15 +13,15 @@
 - Description
 - Links
 
-  ### Project 4
+### Project 4
 - Description
 - Links
 
-  ### Project 6
+### Project 6
 - Description
 - Links
 
-  ### Project 7
+### Project 7
 - Description
 - Links
 
