@@ -1,6 +1,6 @@
 # TAGM.github.io
 
-##Thought Leadership Slides
+## Thought Leadership Slides
 ### 1
 - Description
 - Links
@@ -14,7 +14,7 @@
 - Links 
 
 
-## Projects
+## Featured Projects 
 ### Project 1
 - Description
 - [Carousel](https://www.canva.com/design/DAGp_Se_bXg/9DNKoAEViFNXyjNdxfRWeQ/watch)
@@ -39,21 +39,10 @@
 - Description
 - Links
 
-### Project 7
-- Description
-- Links
+## Social Media
+### Linkedin
 
-### Project 8
-- Description
-- Links
-
-### Project 9
-- Description
-- Links
-
-### Project 10
-- Description
-- Links
+### X
 
 
 ## Certificates
