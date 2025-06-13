@@ -14,15 +14,13 @@
 - Links 
 
 
-## Vizzes 
-### [Tableau](https://public.tableau.com/app/profile/tagm/vizzes) 
-
+## [Tableau](https://public.tableau.com/app/profile/tagm/vizzes) 
 
 
 ## Featured Projects 
 ### Project 1
 - Description
-- [Carousel](https://www.canva.com/design/DAGp_Se_bXg/9DNKoAEViFNXyjNdxfRWeQ/watch)
+- Link 
 
 ### Project 2
 - Description
