@@ -1,6 +1,6 @@
 # TAGM.github.io
 
-## Thought Leadership Slides
+## Thought Leadership 
 ### 1
 - Description
 - Links
@@ -13,8 +13,11 @@
 - Description
 - Links 
 
-##
+
+## Vizzes 
 ### [Tableau](https://public.tableau.com/app/profile/tagm/vizzes) 
+
+
 
 ## Featured Projects 
 ### Project 1
@@ -41,10 +44,13 @@
 - Description
 - Links
 
+
+
 ## Social Media
 ### Linkedin
 
 ### X
+
 
 
 ## Certificates
