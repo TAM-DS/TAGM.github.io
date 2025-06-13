@@ -13,10 +13,6 @@
 - Description
 - Links 
 
-## Vizzes 
-### [Tableau](https://public.tableau.com/app/profile/tagm/vizzes) 
-- Tableau Public Profile 
-
 ## Featured Projects 
 ### Project 1
 - Description
@@ -42,7 +38,8 @@
 - Description
 - Links
 
-
+## Vizzes 
+### [Tableau](https://public.tableau.com/app/profile/tagm/vizzes) 
 
 ## Social Media
 ### Linkedin
