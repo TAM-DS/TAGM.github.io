@@ -38,8 +38,10 @@
 - Description
 - Links
 
+
 ## Vizzes 
 ### [Tableau](https://public.tableau.com/app/profile/tagm/vizzes) 
+
 
 ## Social Media
 ### Linkedin
@@ -49,19 +51,26 @@
 
 
 ## Certificates
+
 ### Google Cloud Architect Professional
 - Link
 
 ### Google Cloud ML Professional
 - Link
 
+### Google Cloud ML Engineer Professional
+- Link
+
+### Nvidia-Certified Associate: Generative AI and LLMs Certification (NCA-GENL)
+- Link
+  
 ### CFA
 - Link
 
-### Data Bricks
+### Databricks- Certified Machine Learning Associate
 - Links
 
-### FinOps
+### FinOps-Certified Practitioner(FOCP)
 - Links 
 
 ## Work History
