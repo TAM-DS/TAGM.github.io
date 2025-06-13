@@ -13,6 +13,8 @@
 - Description
 - Links 
 
+##
+### [Tableau](https://public.tableau.com/app/profile/tagm/vizzes) 
 
 ## Featured Projects 
 ### Project 1
