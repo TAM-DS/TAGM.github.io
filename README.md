@@ -3,7 +3,7 @@
 ## Thought Leadership 
 ### 1
 - Description
-- Links
+- [Python Owns Wallstreet](file:///C:/Users/manni/Downloads/BuiltByTAGM.Final.Python.Owns.Wall.Street%20(2).pdf)
   
 ### 2
 - Description
