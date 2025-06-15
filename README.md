@@ -4,7 +4,7 @@
 
 ## Featured Projects 
 ### Project 1
-- [Quant-Alogrithm](Tam-DSQuant11)
+- [Quant-Alogrithm](https://github.com/TAM-DS/Quant11?tab=readme-ov-file#quant11python)
 
 
 ### Project 2
