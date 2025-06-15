@@ -2,7 +2,7 @@
 ## Thought Leadership
 ### [Python Owns Wall Street](https://github.com/TAM-DS/TAGM.github.io/blob/main/BuiltByTAGM%20Final%20Python%20Owns%20Wall%20Street.pdf)
 
-### [QCaaS Exec Strategy](BuiltByTAGM Strategy, FrameWork & QCaaS final.pdf)
+### [QCaaS Exec Strategy]()
 
 ## Featured Projects 
 ### Project 1
