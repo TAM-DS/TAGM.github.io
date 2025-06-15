@@ -1,17 +1,5 @@
 # TAGM.github.io
 
-## Thought Leadership 
-### 🐍 Python for FinTech: The $100M Code
-From Wall Street to Web3, 73% of financial institutions use Python to model, predict, and move capital—because no other language scales trust, time, and performance like this one.
-- [PythonOwnsWallstreet](https://www.linkedin.com/posts/tracy-anne-griffin-manning_why-73-of-wall-street-builds-with-python-activity-7339701294451871744-fDE5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA8vOaIBm3t8ElOg6BT8iicLnU0RiAuIqlo)
-  
-### 2
-- Description
-- Links
- 
-### 3
-- Description
-- Links 
 
 ## Featured Projects 
 ### Project 1
