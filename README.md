@@ -1,5 +1,6 @@
 # TAGM.github.io
-
+## Thought Leadership
+### [Python Owns Wall Street]()
 
 ## Featured Projects 
 ### Project 1
