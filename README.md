@@ -4,8 +4,8 @@
 
 ## Featured Projects 
 ### Project 1
-- Description
-- Link 
+- [Quant-Alogrithm](Tam-DSQuant11)
+
 
 ### Project 2
 - Description
