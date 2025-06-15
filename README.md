@@ -8,8 +8,8 @@
 
 
 ### Project 2
-- Description
-- Links
+- [Python Trading Algo](https://github.com/TAM-DS/PythonTradingAlgo24-/edit/main/README.md#pythontradingalgo24-)
+  
   
 ### Project 3
 - Description
