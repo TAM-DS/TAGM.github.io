@@ -4,7 +4,7 @@
 
 ### [QCaaS Exec Strategy](https://github.com/TAM-DS/TAGM.github.io/blob/main/BuiltByTAGM%20Strategy%2C%20FrameWork%20%26%20QCaaS%20final.pdf)
 
-## Featured Projects 
+## Featured Python Projects 
 ### Project 1
 - [Quant-Alogrithm](https://github.com/TAM-DS/Quant11?tab=readme-ov-file#quant11python)
 
@@ -28,7 +28,11 @@
 ### Project 6
 - Description
 - Links
-
+  
+## Featured SQL Projects 
+### Project SQL Data Warehouse
+- Description
+- Links
 
 ## Vizzes 
 ### [Tableau](https://public.tableau.com/app/profile/tagm/vizzes) 
