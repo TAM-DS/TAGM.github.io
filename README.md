@@ -28,11 +28,28 @@
 ### Project 6
 - Description
 - Links
+
+
+
+## Featured Quantum Projects
+### Project 1
+- [Quant-Alogrithm](https://github.com/TAM-DS/Quant11?tab=readme-ov-file#quant11python)
+- 
+### Project 2
+- Description
+- Links
+### Project 3
+- Description
+- Links
+
   
 ## Featured SQL Projects 
 ### Project SQL Data Warehouse
 - Description
 - Links
+
+
+
 
 ## Vizzes 
 ### [Tableau](https://public.tableau.com/app/profile/tagm/vizzes) 
@@ -50,23 +67,11 @@
 ### Google Cloud Architect Professional
 - Link
 
-### Google Cloud ML Professional
-- Link
-
-### Google Cloud ML Engineer Professional
-- Link
-
-### Nvidia-Certified Associate: Generative AI and LLMs Certification (NCA-GENL)
-- Link
-  
+ 
 ### CFA
 - Link
 
-### Databricks- Certified Machine Learning Associate
-- Links
 
-### FinOps-Certified Practitioner(FOCP)
-- Links 
-
-## Work History
-### Full Stack Founder BuiltByTAGM
+## Resume
+### 
+- Link
