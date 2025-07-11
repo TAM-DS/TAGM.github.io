@@ -58,8 +58,6 @@
 ## Social Media
 ### [Linkedin](https://www.linkedin.com/in/tracy-anne-griffin-manning/)
 
-### [X](https://x.com/BuiltByTAGM)
-
 
 
 ## Certificates
