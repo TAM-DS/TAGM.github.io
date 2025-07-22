@@ -1,75 +1,35 @@
-# TAGM.github.io
-## Thought Leadership
-### [Python Owns Wall Street](https://github.com/TAM-DS/TAGM.github.io/blob/main/BuiltByTAGM%20Final%20Python%20Owns%20Wall%20Street.pdf)
+# ⚡️ TAGM | AI Systems for FinTech Alpha  
+**Built in Dallas. Made for FinTech.**
 
-### [QCaaS Exec Strategy](https://github.com/TAM-DS/TAGM.github.io/blob/main/BuiltByTAGM%20Strategy%2C%20FrameWork%20%26%20QCaaS%20final.pdf)
+Welcome to the official portfolio of TAGM — a Full Stack Founder crafting intelligent systems that deliver alpha in the modern financial ecosystem.
 
-## Featured Python Projects 
-### Project 1
-- [Quant-Alogrithm](https://github.com/TAM-DS/Quant11?tab=readme-ov-file#quant11python)
+## 🧠 What I Build  
+I combine deep domain expertise with technical firepower across AI, Quantum, and Financial Analytics.
 
+- 🧮 **Python + SQL + Tableau** — advanced dashboards, pipelines, and insights
+- 🤖 **LLM Apps + Vector DBs** — GPT-powered tools and custom AI agents
+- ⚛️ **Quantum Alpha Series** — real QML projects for wealth strategy
+- 🧪 **Experiment-Driven Engineering** — A/B testing, product analytics, and optimization
 
-### Project 2
-- [Python Trading Algo](https://github.com/TAM-DS/PythonTradingAlgo24-/edit/main/README.md#pythontradingalgo24-)
-  
-  
-### Project 3
-- Description
-- Links
+## 🔥 Current Projects  
+| Category       | Highlights |
+|----------------|------------|
+| Tableau        | KPI Heat Maps · Risk Visuals · Volatility Charts · Crypto Trends |
+| Python         | Trading Algorithms · Decision Trees · GPT Agents · ML Pipelines |
+| Quantum        | Quantum Use Cases in Finance · Spin Qubits · F-block Exploration |
+| SQL            | Data Warehousing · Query Optimization · FinTech EDA Dashboards |
 
-### Project 4
-- Description
-- Links
+> 💡 *I’m a generalist who connects the dots — from truck drivers to CEOs.*
 
-### Project 5
-- Description
-- Links
+## 🌐 More  
+- 🖥️ **Live Tableau Portfolio**: [public.tableau.com/profile/tagm](https://public.tableau.com/app/profile/tagm)
+- 🧪 **GPT Apps & AI Products**: Coming soon to the [ChatGPT Store](https://chat.openai.com/gpts)
+- 🧳 **Case Studies**: Available upon request
+- 📍 **DFW Built** — proudly based in Dallas
 
-### Project 6
-- Description
-- Links
+---
 
+🔗 **Let’s Connect**  
+📫 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+🌐 Website coming soon: `builtbytagm.dev`
 
-
-## Featured Quantum Projects
-### Project 1
-- [Quant-Alogrithm](https://github.com/TAM-DS/Quant11?tab=readme-ov-file#quant11python)
-- 
-### Project 2
-- Description
-- Links
-### Project 3
-- Description
-- Links
-
-  
-## Featured SQL Projects 
-### Project SQL Data Warehouse
-- Description
-- Links
-
-
-
-
-## Vizzes 
-### [Tableau](https://public.tableau.com/app/profile/tagm/vizzes) 
-
-
-## Social Media
-### [Linkedin](https://www.linkedin.com/in/tracy-anne-griffin-manning/)
-
-
-
-## Certificates
-
-### Google Cloud Architect Professional
-- Link
-
- 
-### CFA
-- Link
-
-
-## Resume
-### 
-- Link
