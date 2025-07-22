@@ -19,7 +19,8 @@ I combine deep domain expertise with technical firepower across AI, Quantum, and
 | Quantum        | Quantum Use Cases in Finance · Spin Qubits · F-block Exploration |
 | SQL            | Data Warehousing · Query Optimization · FinTech EDA Dashboards |
 
-> 💡 *I’m a generalist who connects the dots — from truck drivers to CEOs.*
+
+   > 💡 *I’m a generalist who connects the dots — from truck drivers to CEOs.*
 
 ## 🌐 More  
 - 🖥️ **Live Tableau Portfolio**: [public.tableau.com/profile/tagm](https://public.tableau.com/app/profile/tagm)
